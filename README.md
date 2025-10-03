@@ -11,7 +11,7 @@
 4. scikit-learn
 5. Jupyter Notebook
 
-ฟีเจอร์หลัก
+**ฟีเจอร์หลัก**
 
 การทำ Data Cleaning และ Preprocessing
 
@@ -21,7 +21,7 @@
 
 การประเมินผลโมเดล (Accuracy, Confusion Matrix)
 
-วิธีการใช้งาน
+**วิธีการใช้งาน**
 
 Clone repository นี้
 
