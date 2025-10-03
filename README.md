@@ -13,18 +13,13 @@
 
 **ฟีเจอร์หลัก**
 
-การทำ Data Cleaning และ Preprocessing
-
-การวิเคราะห์และทำ Visualization (EDA)
-
-การสร้างโมเดล Machine Learning (Logistic Regression, Decision Tree)
-
-การประเมินผลโมเดล (Accuracy, Confusion Matrix)
+1. การทำ Data Cleaning และ Preprocessing
+2. การวิเคราะห์และทำ Visualization (EDA)
+3. การสร้างโมเดล Machine Learning (Logistic Regression, Decision Tree)
+4. การประเมินผลโมเดล (Accuracy, Confusion Matrix)
 
 **วิธีการใช้งาน**
 
-Clone repository นี้
-
-เปิดไฟล์ HR(DataSci).ipynb ด้วย Jupyter Notebook
-
-กด Run ทุก cell ตามลำดับ
+1. Clone repository นี้
+2. เปิดไฟล์ HR(DataSci).ipynb ด้วย Jupyter Notebook
+3. กด Run ทุก cell ตามลำดับ
