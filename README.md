@@ -11,13 +11,20 @@
 4. scikit-learn
 5. Jupyter Notebook
 
-**ฟีเจอร์หลัก**
+ฟีเจอร์หลัก
+
 การทำ Data Cleaning และ Preprocessing
+
 การวิเคราะห์และทำ Visualization (EDA)
+
 การสร้างโมเดล Machine Learning (Logistic Regression, Decision Tree)
+
 การประเมินผลโมเดล (Accuracy, Confusion Matrix)
 
-**วิธีการใช้งาน**
+วิธีการใช้งาน
+
 Clone repository นี้
+
 เปิดไฟล์ HR(DataSci).ipynb ด้วย Jupyter Notebook
-Run ทุก cell ตามลำดับ
+
+กด Run ทุก cell ตามลำดับ
